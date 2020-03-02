@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-Whoopetti dooo
-
-We are doing this again.
+1. index.html
